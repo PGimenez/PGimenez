@@ -1,7 +1,7 @@
 
 I am a PhD electrical engineer with extensive experience in machine learning, scientific programming, web development, and cloud development. Always striving to solve complex problems using cutting-edge technologies, my goal is to help data scientists and researchers bring their algorithms and models to production.
 
-I'm the developer advocate at [Genie](https://genieframework.com). Check out [BuiltWithGenie](https://github.com/BuiltWithGenie) to see the webapps I've built with Genie Framework.
+I'm the developer advocate at [Genie](https://genieframework.com). Check out the [App Gallery](https://learn.genieframework.com/app-gallery) to see the webapps I've built with Genie Framework.
 
 I'm also working on some personal projects:
 - [Carryall](https://carryall.io): a self-hosted platform to deploy applications and run workflows on Kubernetes.
