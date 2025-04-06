@@ -5,6 +5,6 @@ I'm the developer advocate at [Genie](https://genieframework.com). Check out the
 
 I'm also working on some personal projects:
 - [Carryall](https://carryall.io): a self-hosted platform to deploy applications and run workflows on Kubernetes.
-- [Surge](https://github.com/sciflydev/Surge.jl): a package that exposes reactive state via WebSockets, enabling real-time synchronization between Julia backends and web clients. See a [running demo](https://iris.carryall.app/) with a VueJS frontend.
+- [Surge](https://github.com/sciflydev/Surge.jl): a package that exposes reactive state via WebSockets, enabling real-time synchronization between Julia backends and web clients. 
 - [StateSignals](https://github.com/sciflydev/StateSignals.jl): a reactive graph-based state management system where values automatically update based on their dependencies.
 - [WeatherForecast](https://github.com/PGimenez/WeatherForecast): a ML pipeline for weather forecasting running on Kubernetes.
